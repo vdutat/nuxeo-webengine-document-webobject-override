@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<fragment version="1">
+
+  <require>org.nuxeo.ecm.platform.restapi.server</require>
+
+</fragment>
